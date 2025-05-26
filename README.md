@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajayxsaini
-- 👀 I’m interested in AI&ML, Game development
-- 🌱 I’m currently learning Tkinter,JavaScript 
-- 💞️ I’m looking to collaborate on Gaming projects
+- 👀 I’m interested in AI&ML, Web development
+- 🌱 I’m currently learning MERN,JavaScript 
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ajaysaini74700@gmail.com
 
 <!---
